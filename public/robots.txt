@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fu12a.com/sitemap.xml
