@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on FU12A</title>
-    <link>https://fu12a.com/tags/blog/</link>
-    <description>Recent content in Blog on FU12A</description>
+    <title>Apple Vision Pro on FU12A</title>
+    <link>https://fu12a.com/tags/apple-vision-pro/</link>
+    <description>Recent content in Apple Vision Pro on FU12A</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2024 Fumiaki Tokuhisa</copyright>
-    <lastBuildDate>Tue, 09 Jul 2024 00:00:00 +0900</lastBuildDate><atom:link href="https://fu12a.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Jul 2024 00:00:00 +0900</lastBuildDate><atom:link href="https://fu12a.com/tags/apple-vision-pro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apple Vision Proを購入しました</title>
       <link>https://fu12a.com/posts/20240709-apple-vision-pro/</link>
@@ -16,16 +16,6 @@
       <guid>https://fu12a.com/posts/20240709-apple-vision-pro/</guid>
       <description>Vision Pro購入 # 日本では6/28から発売開始となったApple Vision Proを購入しました。 Apple Storeのデモを体験して想像以上の完成度であったことと、mac連携の評判が良いということで購入を決意しました。</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://fu12a.com/posts/20240709-apple-vision-pro/featured.png" />
-    </item>
-    
-    <item>
-      <title>サイトを移転しました</title>
-      <link>https://fu12a.com/posts/20240707-site-move/</link>
-      <pubDate>Sun, 07 Jul 2024 00:00:00 +0900</pubDate>
-      
-      <guid>https://fu12a.com/posts/20240707-site-move/</guid>
-      <description>サイト移転について # 個人サイトを作り直しました。更新が止まってしまっていましたが、また新しい物を作って記事を書いていきたいと思います。</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://fu12a.com/posts/20240707-site-move/featured.png" />
     </item>
     
   </channel>

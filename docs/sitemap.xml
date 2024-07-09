@@ -3,14 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://fu12a.com/posts/20240709-apple-vision-pro/</loc>
+    <lastmod>2024-07-09T00:00:00+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://fu12a.com/posts/</loc>
-    <lastmod>2024-07-07T00:00:00+09:00</lastmod>
+    <lastmod>2024-07-09T00:00:00+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://fu12a.com/</loc>
-    <lastmod>2024-07-07T00:00:00+09:00</lastmod>
+    <lastmod>2024-07-09T00:00:00+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
